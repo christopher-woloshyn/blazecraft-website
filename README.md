@@ -1,2 +1,3 @@
-# blazecraft-website
-Static website for the BlazeCraft Minecraft server.
+# Title
+
+BlazeCraft Info was created with the create-react-app typscript template.
